@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myaidldemoclient</string>
+    <string name="bind_service">bind service</string>
+    <string name="unbind_service">unbind service</string>
+    <string name="bind_service_via_aidl">bind service aidl</string>
+</resources>
